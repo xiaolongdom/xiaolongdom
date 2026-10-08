@@ -14,32 +14,6 @@ I'm a fresh IT graduate with hands-on experience in **IT support, network troubl
 - **Database:** Local Storage / Local Database Concepts
 - **AI Tools:** AI-assisted development & prompt engineering
 
-## 🚀 Featured Projects
-
-### 🏋️ GymFlow
-An owner-focused gym management web application featuring:
-- Member management
-- Attendance tracking
-- Income monitoring
-- Expiration tracking
-- Local database/storage
-- Dashboard analytics
-
-> Source code is private, but I can provide a demo or walkthrough upon request.
-
-### 🤟 Sign2Speak+
-A Flutter mobile application developed with an **ESP32-based smart glove** to interpret predefined sign language gestures into text and speech.
-
-**Tech:** Flutter, Dart, ESP32, HTTP, UI/UX Design
-
-### 🏥 Healthcare IT Support — OJT
-Hands-on experience supporting a healthcare environment, including:
-- PC and printer troubleshooting
-- Network configuration and troubleshooting
-- pfSense and UniFi
-- LAN and structured cabling
-- File sharing and permissions
-- Hospital system/database support
 
 ## 📫 Let's Connect
 
