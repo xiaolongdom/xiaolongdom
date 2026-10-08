@@ -17,7 +17,9 @@ I'm a fresh IT graduate with hands-on experience in **IT support, network troubl
 ## Projects
 
 ### GymFlow
-Gym management web application for managing members, attendance, memberships, and income.
+Gym management web application for managing members, attendance, memberships, and income.(Take not localdb)
+
+
 username = admin
 password = admin123
 
