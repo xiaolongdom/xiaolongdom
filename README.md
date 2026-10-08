@@ -20,7 +20,7 @@ I'm a fresh IT graduate with hands-on experience in **IT support, network troubl
 Gym management web application for managing members, attendance, memberships, and income.(Take not localdb)
 
 
-username = admin
+username = admin ,
 password = admin123
 
 🔗 Live Demo: https://gymflows-delta.vercel.app/
