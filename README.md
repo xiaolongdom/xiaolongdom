@@ -1,10 +1,10 @@
-# Hi, I'm John Dominic 👋
+# Hi, I'm John Dominic 
 
 ### IT Support | Web & Mobile Developer | UI/UX Designer
 
 I'm a fresh IT graduate with hands-on experience in **IT support, network troubleshooting, web development, mobile app development, and UI/UX design**. I enjoy building practical systems and solving technical problems through technology.
 
-## 🛠️ Skills
+##  Skills
 
 - **IT Support:** Hardware & Software Troubleshooting, Windows, Printers, Network Support
 - **Networking:** LAN/WAN, Routers & Switches, Wi-Fi, pfSense, UniFi
@@ -15,7 +15,7 @@ I'm a fresh IT graduate with hands-on experience in **IT support, network troubl
 - **AI Tools:** AI-assisted development & prompt engineering
 
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm currently looking for opportunities in **IT Support, IT Operations, Web Development, Mobile Development, or UI/UX Design**.
 
