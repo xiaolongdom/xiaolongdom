@@ -25,6 +25,14 @@ password = admin123
 
 🔗 Live Demo: https://gymflows-delta.vercel.app/
 
+### Personal Portfolio Website
+
+A personal portfolio showcasing my background, technical skills, and projects in IT support, web development, and mobile app design.
+
+Tech Stack: HTML, CSS, JavaScript
+
+🔗Live Portfolio: john-dominic-portfolio-porfolio-4nbwf4tii-gymd1.vercel.app
+
 
 
 ##  Let's Connect
