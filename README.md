@@ -31,7 +31,7 @@ A personal portfolio showcasing my background, technical skills, and projects in
 
 Tech Stack: HTML, CSS, JavaScript
 
-🔗Live Portfolio: john-dominic-portfolio-porfolio-4nbwf4tii-gymd1.vercel.app
+🔗Live Portfolio: https://john-dominic-portfolio-porfolio-4nbwf4tii-gymd1.vercel.app
 
 
 
